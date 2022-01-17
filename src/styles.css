@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import "semantic-ui-css/semantic.css";
+body {
+  background: linear-gradient(135deg, rgb(255, 132, 132), rgba(122, 1, 1, 0.9));
+}
+li {
+  list-style: none;
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
